@@ -24,4 +24,4 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run a one-line script
-      run: sudo source setup/setup_device.sh
+      run: sudo setup/setup_device.sh
